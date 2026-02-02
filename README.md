@@ -139,4 +139,3 @@ This project has been tested with:
 *   [libft-war-machine](https://github.com/0x050f/libft-war-machine)
 
 > 💡 **Keep coding, keep building.**
-```
